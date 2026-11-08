@@ -4,7 +4,7 @@
 
 Painel SOC de defesa cibernética para demonstrar análise e triagem de alertas, monitoramento de ameaças e análise de endereços IP. Projeto de portfólio em HTML, CSS e JavaScript com dados fictícios e simulações locais.
 
-[Acesse o SentinelSOC](https://pietrosouza71.github.io/SentinelSoc/)
+[pietrosouza71.github.io/SentinelSoc/](https://pietrosouza71.github.io/SentinelSoc/)
 
 O GitHub Actions publica o site automaticamente a cada atualização da branch `main`.
 
