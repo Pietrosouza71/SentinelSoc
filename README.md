@@ -1,6 +1,6 @@
 # SentinelSOC
 
-## About
+## Sobre
 
 Painel SOC de defesa cibernética para demonstrar análise e triagem de alertas, monitoramento de ameaças e análise de endereços IP. Projeto de portfólio em HTML, CSS e JavaScript com dados fictícios e simulações locais.
 
