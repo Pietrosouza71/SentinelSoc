@@ -1,15 +1,14 @@
 # SentinelSOC
 
-**Painel de operações de segurança cibernética para demonstração de conceitos de Blue Team.**  
-Projeto de portfólio em HTML, CSS e JavaScript, com eventos sintéticos e simulações executadas exclusivamente no navegador.
+## About
+
+Painel SOC de defesa cibernética para demonstrar análise e triagem de alertas, monitoramento de ameaças e análise de endereços IP. Projeto de portfólio em HTML, CSS e JavaScript com dados fictícios e simulações locais.
+
+[pietrosouza71.github.io/SentinelSoc/](https://pietrosouza71.github.io/SentinelSoc/)
+
+> O site ainda não está publicado: o GitHub Pages precisa ser ativado nas configurações do repositório (**Settings → Pages → Deploy from a branch → `main` → `/ (root)`**). Depois de publicar, o link acima permitirá acessar o painel.
 
 > Analise sinais, priorize alertas e explore o contexto de incidentes em um ambiente demonstrativo.
-
-## Demonstração
-
-**[Acessar o SentinelSOC no GitHub Pages](https://pietrosouza71.github.io/SentinelSoc/)**
-
-> O GitHub Pages ainda precisa ser ativado para que o link fique disponível. No repositório, acesse **Settings → Pages**, selecione **Deploy from a branch**, escolha a branch `main` e a pasta `/ (root)`, e salve. Após a publicação, o link acima exibirá o painel.
 
 ## Captura de tela
 
@@ -46,4 +45,3 @@ Não é necessário instalar dependências nem configurar um servidor de aplica�
 ## Dados e segurança
 
 Este painel é uma simulação de portfólio, não um SIEM nem uma ferramenta de monitoramento real. Os eventos, indicadores, níveis de confiança e mapeamentos são ilustrativos. Os endereços de IP pertencem a faixas reservadas para documentação. O projeto não coleta telemetria, não se conecta a sistemas externos e não executa ataques ou varreduras.
-
